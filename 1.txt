@@ -2,3 +2,4 @@ Noi dung 1
 
 
 Sua loi ABC
+- Lenh git checkout 
